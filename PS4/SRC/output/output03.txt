@@ -1,0 +1,34 @@
+11
+-A OR -C
+-A OR C OR D
+-B OR C OR E
+A
+A OR -D
+B
+B OR -E
+B OR D
+B OR D OR E
+C OR D
+D OR E
+20
+-A OR -B OR C
+-A OR -B OR E
+-A OR B OR D
+-A OR D
+-A OR D OR E
+-B OR C
+-B OR E
+-C OR -D
+-D
+-D OR -E
+-E
+A OR B OR C
+A OR B OR E
+A OR C
+A OR C OR E
+A OR E
+B OR -C
+C OR E
+D
+{}
+YES
